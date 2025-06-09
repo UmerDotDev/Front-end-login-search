@@ -40,4 +40,4 @@ This is a front-end web application built in **React with TypeScript**, designed
 ## ℹ️ Notes
 
 > The backend API was built by a collaborator. I was fully responsible for the frontend architecture, design, and integration. This project includes ~44% TypeScript and reflects thoughtful planning in both aesthetics and functionality.
-> **Note:** The Search Page is live, but the backend connection from Google Cloud Platform is currently turned off to save costs. The frontend is fully functional and ready to connect once the backend is active again.
+
